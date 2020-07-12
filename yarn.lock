@@ -16625,7 +16625,7 @@ webpack@5.0.0-beta.18:
     watchpack "2.0.0-beta.13"
     webpack-sources "2.0.0-beta.8"
 
-webpack@^5.0.0-beta.22:
+webpack@5.0.0-beta.22:
   version "5.0.0-beta.22"
   resolved "https://registry.yarnpkg.com/webpack/-/webpack-5.0.0-beta.22.tgz#c5560c3b470ccab69c66273a3bcf314f85926bea"
   integrity sha512-t3HnQPy88PASM2ur0rvUXau8vAz287BlH8DpiaHoWkjlLThLx7olzExtTsVJEFen/9uTfWOV21dWS8kiYmGLkA==
